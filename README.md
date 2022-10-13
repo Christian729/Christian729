@@ -1,7 +1,8 @@
 - 👋 Hello, my name's Christian!
 - 🕹️ I’m interested in making video games, and web applications!
 - ⛩️ I’m currently attending Coding Dojo.
-  - 🥳 I received my Python belt from the "Dojo'.
+  - 🥳 I received my Python belt from the 'Dojo'.
+  - Currently working on the MERN stack!
 
 
 <!---
