@@ -10,3 +10,6 @@ Christian729/Christian729 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian729&show_icons=true&theme=radical)
+
+- Here are some of the languages I use.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian729)](https://github.com/Christian729/github-readme-stats)
