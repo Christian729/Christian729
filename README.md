@@ -14,4 +14,5 @@ You can click the Preview link to take a look at your changes.
 - Here are some of the languages I use.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian729&theme=radical)](https://github.com/Christian729/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian729&layout=compact&theme=radical)](https://github.com/Christian729/github-readme-stats)
