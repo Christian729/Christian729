@@ -2,7 +2,8 @@
 - 🕹️ I’m interested in making video games, and web applications!
 - ⛩️ I’m currently attending Coding Dojo.
   - 🥳 I received my Python belt from the 'Dojo'.
-  - Currently working on the MERN stack!
+  - I've also received my belt for the MERN stack!
+  - ☕ Up Next? Java!
 
 
 <!---
